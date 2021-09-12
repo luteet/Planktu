@@ -2,9 +2,9 @@ let firstCheck = false,
     lastValue = '',
     select = document.querySelector(`.featured__type-list--select`),
     file = {
-        'relevant': '../json/products.json',
-        'descending': '../json/products-to-up.json',
-        'ascending': '../json/products-to-down.json',
+        'relevant': '/json/products.json',
+        'descending': '/json/products-to-up.json',
+        'ascending': '/json/products-to-down.json',
     };
 
 
