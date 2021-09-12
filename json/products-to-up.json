@@ -1,0 +1,85 @@
+{
+    "products": [
+        {
+            "id": 10,
+            "title": "Kaktus 10",
+            "href": "404.html",
+            "image": "img/featured/product-5.jpg",
+            "imageWebp": "img/featured/product-5.webp",
+            "price": 290
+        },
+        {
+            "id": 9,
+            "title": "Kaktus 9",
+            "href": "404.html",
+            "image": "img/featured/product-4.jpg",
+            "imageWebp": "img/featured/product-4.webp",
+            "price": 270
+        },
+        {
+            "id": 1,
+            "title": "Kaktus",
+            "href": "404.html",
+            "image": "img/featured/product-1.jpg",
+            "imageWebp": "img/featured/product-1.webp",
+            "price": 250
+        },
+        {
+            "id": 3,
+            "title": "Kaktus 3",
+            "href": "404.html",
+            "image": "img/featured/product-3.jpg",
+            "imageWebp": "img/featured/product-3.webp",
+            "price": 230
+        },
+        {
+            "id": 8,
+            "title": "Kaktus 8",
+            "href": "404.html",
+            "image": "img/featured/product-3.jpg",
+            "imageWebp": "img/featured/product-3.webp",
+            "price": 230
+        },
+        {
+            "id": 2,
+            "title": "Kaktus 2",
+            "href": "404.html",
+            "image": "img/featured/product-2.jpg",
+            "imageWebp": "img/featured/product-2.webp",
+            "price": 220
+        },
+        {
+            "id": 7,
+            "title": "Kaktus 7",
+            "href": "404.html",
+            "image": "img/featured/product-2.jpg",
+            "imageWebp": "img/featured/product-2.webp",
+            "price": 210
+        },
+        {
+            "id": 6,
+            "title": "Kaktus 6",
+            "href": "404.html",
+            "image": "img/featured/product-1.jpg",
+            "imageWebp": "img/featured/product-1.webp",
+            "price": 200
+        },
+        {
+            "id": 4,
+            "title": "Kaktus 4",
+            "href": "404.html",
+            "image": "img/featured/product-4.jpg",
+            "imageWebp": "img/featured/product-4.webp",
+            "price": 190
+        },
+        {
+            "id": 5,
+            "title": "Kaktus 5",
+            "href": "404.html",
+            "image": "img/featured/product-5.jpg",
+            "imageWebp": "img/featured/product-5.webp",
+            "price": 160
+        }
+    ]
+}
+
