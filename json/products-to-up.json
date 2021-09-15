@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 10,
-            "title": "Kaktus 10",
+            "title": "Вазон 10",
             "href": "404.html",
             "image": "img/featured/product-5.jpg",
             "imageWebp": "img/featured/product-5.webp",
@@ -10,7 +10,7 @@
         },
         {
             "id": 9,
-            "title": "Kaktus 9",
+            "title": "Вазон 9",
             "href": "404.html",
             "image": "img/featured/product-4.jpg",
             "imageWebp": "img/featured/product-4.webp",
@@ -18,7 +18,7 @@
         },
         {
             "id": 1,
-            "title": "Kaktus",
+            "title": "Вазон",
             "href": "404.html",
             "image": "img/featured/product-1.jpg",
             "imageWebp": "img/featured/product-1.webp",
@@ -26,7 +26,7 @@
         },
         {
             "id": 3,
-            "title": "Kaktus 3",
+            "title": "Вазон 3",
             "href": "404.html",
             "image": "img/featured/product-3.jpg",
             "imageWebp": "img/featured/product-3.webp",
@@ -34,7 +34,7 @@
         },
         {
             "id": 8,
-            "title": "Kaktus 8",
+            "title": "Вазон 8",
             "href": "404.html",
             "image": "img/featured/product-3.jpg",
             "imageWebp": "img/featured/product-3.webp",
@@ -42,7 +42,7 @@
         },
         {
             "id": 2,
-            "title": "Kaktus 2",
+            "title": "Вазон 2",
             "href": "404.html",
             "image": "img/featured/product-2.jpg",
             "imageWebp": "img/featured/product-2.webp",
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "title": "Kaktus 7",
+            "title": "Вазон 7",
             "href": "404.html",
             "image": "img/featured/product-2.jpg",
             "imageWebp": "img/featured/product-2.webp",
@@ -58,7 +58,7 @@
         },
         {
             "id": 6,
-            "title": "Kaktus 6",
+            "title": "Вазон 6",
             "href": "404.html",
             "image": "img/featured/product-1.jpg",
             "imageWebp": "img/featured/product-1.webp",
@@ -66,7 +66,7 @@
         },
         {
             "id": 4,
-            "title": "Kaktus 4",
+            "title": "Вазон 4",
             "href": "404.html",
             "image": "img/featured/product-4.jpg",
             "imageWebp": "img/featured/product-4.webp",
@@ -74,7 +74,7 @@
         },
         {
             "id": 5,
-            "title": "Kaktus 5",
+            "title": "Вазон 5",
             "href": "404.html",
             "image": "img/featured/product-5.jpg",
             "imageWebp": "img/featured/product-5.webp",
